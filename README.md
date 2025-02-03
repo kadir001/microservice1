@@ -1,2 +1,2 @@
 # microservice1
-microservice one for freeCodeCamp backend certification
+microservices for freeCodeCamp backend certification
